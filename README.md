@@ -1,4 +1,4 @@
-# Statistics-and-Data-Analytics
+# Statistics and Data Analytics
 
 # Semester 6 | Year 3
 
